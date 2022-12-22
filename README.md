@@ -6,6 +6,7 @@
 - 👨🏻‍🔬  &nbsp;Experimentalist leveraging technologies and science.
 - 🤗  &nbsp;Augmented Reality enthusiast.
 - 📫  &nbsp;Happy to connect on [LinkedIn][linkedin].
+- 📱  &nbsp;Check out my iOS apps at [Apple App Store][apple-app-store].
 - 💻  &nbsp;Currently studying iOS & Android Development at [Malmö Yrkeshögskola][my].
 
 
@@ -20,4 +21,5 @@
 
 [linkedin]: https://www.linkedin.com/in/neurothrone/
 [website]: https://neurothrone.tech
+[apple-app-store]: https://apps.apple.com/us/developer/zaid-neurothrone/id1475655110
 [my]: https://my.se/
