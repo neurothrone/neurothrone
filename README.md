@@ -13,7 +13,7 @@
 
 [linkedin]: https://www.linkedin.com/in/neurothrone/
 [website]: https://neurothrone.tech
-[apple-app-store]: https://apps.apple.com/us/developer/zaid-neurothrone/id1475655110
+[apple-app-store]: https://apps.apple.com/us/developer/zane-neurothrone/id1475655110
 [google-play]: https://play.google.com/store/apps/dev?id=4653025319395600972
 [youtube]: https://www.youtube.com/@neurothrone
 [itch-io]: https://neurothrone.itch.io/
