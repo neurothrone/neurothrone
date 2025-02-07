@@ -2,14 +2,14 @@
 
 ## About me
 
-👨🏻‍💻  &nbsp;Software Engineer.
-👨🏻‍🔬  &nbsp;Experimentalist leveraging Science and Technologies.
-📫  &nbsp;Happy to connect on [LinkedIn][linkedin].
-📱  &nbsp;My iOS apps on [Apple App Store][apple-app-store].
-🤖  &nbsp;My Android apps on [Google Play][google-play].
-🎥  &nbsp;My content on [YouTube][youtube].
-👾  &nbsp;My past amateurish Unity games on [Itch.io][itch-io].
-💻  &nbsp;Studied iOS & Android Development at [Malmö Yrkeshögskola][my].
+- 👨🏻‍💻  &nbsp;Software Engineer.
+- 👨🏻‍🔬  &nbsp;Experimentalist leveraging Science and Technologies.
+- 📫  &nbsp;Happy to connect on [LinkedIn][linkedin].
+- 📱  &nbsp;My iOS apps on [Apple App Store][apple-app-store].
+- 🤖  &nbsp;My Android apps on [Google Play][google-play].
+- 🎥  &nbsp;My content on [YouTube][youtube].
+- 👾  &nbsp;My past amateurish Unity games on [Itch.io][itch-io].
+- 💻  &nbsp;Studied iOS & Android Development at [Malmö Yrkeshögskola][my].
 
 [linkedin]: https://www.linkedin.com/in/neurothrone/
 [website]: https://neurothrone.tech
