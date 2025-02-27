@@ -2,8 +2,6 @@
 
 ## About Me  
 
-Versatile Software Engineer | Comedic Technical Writer | Builder of Software & Jokes Nobody Asked For.  
-
 - 💻 &nbsp; **Generalist developer** – Backend, frontend, cloud, DevOps, and occasionally wrangling cosmic uncertainty.  
 - ☁️ &nbsp; **Currently studying** .NET Cloud Developer at [IT-Högskolan][iths].  
 - 📱 &nbsp; **Previously studied** iOS & Android Development at [Malmö Yrkeshögskola][my].  
