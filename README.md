@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=neurothrone&label=Profile%20views&color=blueviolet&style=flat&abbreviated=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neurothrone&theme=dark&ring=8e44ad&fire=9b59b6&currStreakLabel=9b59b6&sideLabels=8e44ad)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neurothrone&theme=tokyonight)
+
 
 
 ## About Me  
