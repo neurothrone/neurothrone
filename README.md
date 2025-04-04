@@ -1,6 +1,6 @@
 # Versatile Software Engineer | Building Software & Jokes Nobody Asked For
 
-![Profile views](https://komarev.com/ghpvc/?username=neurothrone&label=Profile%20views&color=blueviolet&style=flat&abbreviated=true)
+![Profile views](https://komarev.com/ghpvc/?username=neurothrone&label=Profile%20views&color=8e44ad&style=flat)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neurothrone&theme=tokyonight)
 
