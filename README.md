@@ -1,4 +1,4 @@
-# Versatile Software Engineer | Building Software & Jokes Nobody Asked For
+Software Architect | Full-Stack & Mobile Developer | Cloud, DevOps & Technical Educator
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neurothrone&theme=tokyonight)
 
