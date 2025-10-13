@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## 👋 Welcome, Cadet
+## 👋 Welcome! There is no turning back now.
 
 I'm Zane, captain of the Neurothrone. I build cloud‑native apps, educational content, and the occasional unnecessarily
 dramatic DevOps pipeline. Expect .NET + Azure, React/Next, Flutter + Firebase, Terraform/Bicep, and the occasional
