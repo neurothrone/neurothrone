@@ -41,14 +41,6 @@ Python mischief. Sci‑fi flavor, dry humor, and `it works on my machine` energy
 > **Why purple?**  
 > Because it hums with power, mystery, and a questionable sleep schedule.
 
----
-
-## 📊 System Telemetry
-
-![Zane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neurothrone&show_icons=true&theme=tokyonight&title_color=B266FF&icon_color=B266FF)
-![GitHub Streak](https://streak-stats.demolab.com?user=neurothrone&theme=tokyonight&ring=B266FF&fire=A64DFF&currStreakLabel=B266FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neurothrone&layout=compact&theme=tokyonight&title_color=B266FF)
-
 
 [linkedin]: https://www.linkedin.com/in/neurothrone
 [apple-app-store]: https://apps.apple.com/us/developer/zane-neurothrone/id1475655110
