@@ -1,40 +1,49 @@
-# Versatile Software Engineer | Full-Stack & Mobile Developer | Cloud, DevOps & Technical Educator
+<div style="text-align:center;">
+  <h1 style="color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow: 0 0 15px #A64DFF;">ZANE · NEUROTHRONE</h1>
+  <p><strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong></p>
+  <p><em>Shipping code, jokes and purple UI.</em></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
+  </p>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neurothrone&theme=tokyonight)
+## 👋 Welcome, Cadet
 
-![Profile views](https://komarev.com/ghpvc/?username=neurothrone&label=Profile%20views&color=7f5af0&style=flat)
+I'm Zane, captain of the Neurothrone. I build cloud‑native apps, educational content, and the occasional unnecessarily
+dramatic DevOps pipeline. Expect .NET + Azure, React/Next, Flutter + Firebase, Terraform/Bicep, and the occasional
+Python mischief. Sci‑fi flavor, dry humor, and `it works on my machine` energy included.
 
-## About Me  
+> [!IMPORTANT]
+> **Mission Log TL;DR**
+> Teach. Ship. Automate. Add a purple glow. Repeat.
 
-- 💻 &nbsp; **Generalist developer** – Backend, frontend, cloud, DevOps, and occasionally wrangling cosmic uncertainty.  
-- ☁️ &nbsp; **Currently studying** .NET Cloud Developer at [IT-Högskolan][iths].  
-- 📱 &nbsp; **Previously studied** iOS & Android Development at [Malmö Yrkeshögskola][my].  
-- 📚 &nbsp; **Writes both code and words** – Technical, comedic, and occasionally philosophical.  
-- 📱 &nbsp; **Built some apps** – Available on [Apple App Store][apple-app-store], [Google Play][google-play], and [Microsoft Store][microsoft-store].  
-- 🎥 &nbsp; **Creates content** – See my ramblings on [YouTube][youtube].  
-- 🎮 &nbsp; **Made amateurish Unity games** – They're still alive on [Itch.io][itch-io].  
-- 🕵️ &nbsp; **Easily distracted by new tech** – But somehow, everything gets built.  
+## ⚡ System Overview
 
-📫 **Find me elsewhere:**  
-- 🔗 **LinkedIn:** [neurothrone][linkedin]  
-- 🌍 **Website:** [neurothrone.tech][website]  
+💻  **Generalist Developer** – Backend, frontend, cloud, DevOps, and the occasional cosmic debugging session.  
+📚  **Writer of Code & Words** – Technical, comedic, sometimes accidentally philosophical.  
+📱  **App Builder** – Available on [App Store][apple-app-store], [Google Play][google-play],
+and [Microsoft Store][microsoft-store].  
+🎥  **Content Creator** – Produces educational and comedic dev content at [Neurothrone][youtube-neurothrone] and
+at [KakashiDota][youtube-kakashidota].  
+🎮  **Indie Game Tinkerer** – Experiments with Unity projects that somehow still boot on [Itch.io][itch-io].  
+🕵️  **Tech Explorer** – Easily distracted by new frameworks, but everything ships eventually.
+
+## 🧠 FAQ
+
+> **Are you a junior?**  
+> No. Just wired for curiosity and over-engineering.
+>
+> **Are your projects serious or funny?**  
+> Yes.
+>
+> **Why purple?**  
+> Because it hums with power, mystery, and a questionable sleep schedule.
+
 
 [linkedin]: https://www.linkedin.com/in/neurothrone
-[website]: https://neurothrone.tech
-[iths]: https://iths.se
-[my]: https://my.se
 [apple-app-store]: https://apps.apple.com/us/developer/zane-neurothrone/id1475655110
 [google-play]: https://play.google.com/store/apps/dev?id=4653025319395600972
 [microsoft-store]: https://apps.microsoft.com/search/publisher?name=Neurothrone&hl=en-us&gl=US
-[youtube]: https://www.youtube.com/@neurothrone
+[youtube-neurothrone]: https://www.youtube.com/@neurothrone
+[youtube-kakashidota]: https://www.youtube.com/@KakashiDota
 [itch-io]: https://neurothrone.itch.io
-
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neurothrone&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neurothrone&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neurothrone&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neurothrone&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neurothrone&theme=tokyonight&utcOffset=8)
