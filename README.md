@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><font color="#B266FF"><b>ZANE · NEUROTHRONE</b></font></h1>
+  <h1>ZANE · NEUROTHRONE</h1>
   <p><strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong></p>
   <p><em>Shipping code, jokes and purple UI.</em></p>
   <p>
