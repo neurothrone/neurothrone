@@ -1,7 +1,5 @@
 <div align="center">
-  <h1 style="color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow:0 0 15px #A64DFF;">
-    ZANE · NEUROTHRONE
-  </h1>
+  <h1><font color="#B266FF"><b>ZANE · NEUROTHRONE</b></font></h1>
   <p><strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong></p>
   <p><em>Shipping code, jokes and purple UI.</em></p>
   <p>
