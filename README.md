@@ -1,11 +1,18 @@
-<div style="text-align:center;">
-  <h1 style="color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow: 0 0 15px #A64DFF;">ZANE · NEUROTHRONE</h1>
-  <p><strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong></p>
-  <p><em>Shipping code, jokes and purple UI.</em></p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
-  </p>
-</div>
+<h1 style="text-align:center; color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow:0 0 15px #A64DFF;">
+  ZANE · NEUROTHRONE
+</h1>
+
+<p style="text-align:center;">
+  <strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong>
+</p>
+
+<p style="text-align:center;">
+  <em>Shipping code, jokes, and purple UI.</em>
+</p>
+
+<p style="text-align:center;">
+  <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
+</p>
 
 ## 👋 Welcome, Cadet
 
@@ -19,14 +26,14 @@ Python mischief. Sci‑fi flavor, dry humor, and `it works on my machine` energy
 
 ## ⚡ System Overview
 
-💻  **Generalist Developer** – Backend, frontend, cloud, DevOps, and the occasional cosmic debugging session.  
-📚  **Writer of Code & Words** – Technical, comedic, sometimes accidentally philosophical.  
-📱  **App Builder** – Available on [App Store][apple-app-store], [Google Play][google-play],
-and [Microsoft Store][microsoft-store].  
-🎥  **Content Creator** – Produces educational and comedic dev content at [Neurothrone][youtube-neurothrone] and
-at [KakashiDota][youtube-kakashidota].  
-🎮  **Indie Game Tinkerer** – Experiments with Unity projects that somehow still boot on [Itch.io][itch-io].  
-🕵️  **Tech Explorer** – Easily distracted by new frameworks, but everything ships eventually.
+- **Generalist Developer** – Backend, frontend, cloud, DevOps, and the occasional cosmic debugging session.
+- **Writer of Code & Words** – Technical, comedic, sometimes accidentally philosophical.
+- **App Builder** – Available on [App Store][apple-app-store], [Google Play][google-play],
+  and [Microsoft Store][microsoft-store].
+- **Content Creator** – Produces educational and comedic dev content at [Neurothrone][youtube-neurothrone] and
+  at [KakashiDota][youtube-kakashidota].
+- **Indie Game Tinkerer** – Experiments with Unity projects that somehow still boot on [Itch.io][itch-io].
+- **Tech Explorer** – Easily distracted by new frameworks, but everything ships eventually.
 
 ## 🧠 FAQ
 
