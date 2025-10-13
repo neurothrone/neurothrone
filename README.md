@@ -28,3 +28,13 @@
 [microsoft-store]: https://apps.microsoft.com/search/publisher?name=Neurothrone&hl=en-us&gl=US
 [youtube]: https://www.youtube.com/@neurothrone
 [itch-io]: https://neurothrone.itch.io
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neurothrone&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neurothrone&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neurothrone&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neurothrone&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neurothrone&theme=tokyonight&utcOffset=8)
