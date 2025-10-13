@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   <h1 style="color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow:0 0 15px #A64DFF;">
     ZANE · NEUROTHRONE
   </h1>
@@ -7,7 +7,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
   </p>
-</center>
+</div>
 
 ## 👋 Welcome, Cadet
 
