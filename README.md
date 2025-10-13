@@ -1,18 +1,13 @@
-<h1 style="text-align:center; color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow:0 0 15px #A64DFF;">
-  ZANE · NEUROTHRONE
-</h1>
-
-<p style="text-align:center;">
-  <strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong>
-</p>
-
-<p style="text-align:center;">
-  <em>Shipping code, jokes, and purple UI.</em>
-</p>
-
-<p style="text-align:center;">
-  <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
-</p>
+<center>
+  <h1 style="color:#B266FF; font-weight:900; letter-spacing:1px; text-shadow:0 0 15px #A64DFF;">
+    ZANE · NEUROTHRONE
+  </h1>
+  <p><strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong></p>
+  <p><em>Shipping code, jokes and purple UI.</em></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
+  </p>
+</center>
 
 ## 👋 Welcome, Cadet
 
