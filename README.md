@@ -19,7 +19,7 @@ Python mischief. Sci‑fi flavor, dry humor, and `it works on my machine` energy
 
 ## ⚡ System Overview
 
-- **Generalist Developer** – Backend, frontend, cloud, DevOps, and the occasional cosmic debugging session.
+- **Generalist Developer** – Backend, Frontend, Cloud, DevOps, and the occasional cosmic debugging session.
 - **Writer of Code & Words** – Technical, comedic, sometimes accidentally philosophical.
 - **App Builder** – Available on [App Store][apple-app-store], [Google Play][google-play],
   and [Microsoft Store][microsoft-store].
