@@ -2,6 +2,8 @@
   <h1>ZANE · NEUROTHRONE</h1>
   <p><strong>Versatile Software Engineer · Full-Stack & Mobile · Cloud & DevOps · Technical Educator</strong></p>
   <p><em>Shipping code, jokes and purple UI.</em></p>
+
+  <br/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=neurothrone&style=for-the-badge&color=B266FF&label=VISITORS" alt="Profile visitors" />
   </p>
